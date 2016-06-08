@@ -1,0 +1,7 @@
+name             'monitoring_scripts'
+maintainer       'Matthew Mayers'
+maintainer_email 'matt@mattmayers.com'
+license          'All rights reserved'
+description      'Installs/Configures monitoring_scripts'
+long_description 'Installs/Configures monitoring_scripts'
+version          '0.1.0'
